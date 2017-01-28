@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# react-redux-forecast
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
